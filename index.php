@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to my PHP Application!";
+echo "Welcome to my Website!";
 ?>
